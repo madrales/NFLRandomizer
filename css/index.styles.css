@@ -1,0 +1,35 @@
+#header {
+    text-align: center;
+    margin: auto;
+}
+body {
+    background: url("../images/background.jpg") no-repeat center center fixed;
+}
+#wrapper {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 5px;
+    margin-top: 15px;
+    border-radius: 20px;
+    border-color: #7A7265;
+}
+#buttonWrap {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+    cursor: pointer;
+}
+button{
+    cursor: pointer;
+}
+#content_wrapper {
+    background-color: #fff;
+    width: 15%;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20rem;
+}
